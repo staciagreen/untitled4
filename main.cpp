@@ -6,5 +6,6 @@ int main() {
     std::cout << "hi" << std::endl;
     std::cout << "hey there" << std::endl;
     std::cout << "hey kids" << std::endl;
+    std::cout << "Hello, World!" << std::endl;
     return 0;
 }
